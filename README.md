@@ -1,1 +1,1 @@
-# example-rep
+# lab-agile-planning
